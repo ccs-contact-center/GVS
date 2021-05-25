@@ -4829,6 +4829,11 @@ hmac-drbg@^1.0.0:
     minimalistic-assert "^1.0.0"
     minimalistic-crypto-utils "^1.0.1"
 
+hoist-non-react-statics@^2.3.1:
+  version "2.5.5"
+  resolved "https://registry.yarnpkg.com/hoist-non-react-statics/-/hoist-non-react-statics-2.5.5.tgz#c5903cf409c0dfd908f388e619d86b9c1174cb47"
+  integrity sha512-rqcy4pJo55FTTLWt+bU8ukscqHeE/e9KWvsOW2b/a3afxQZhwkQdT1rPPCJ0rYXdj4vNcasY8zHTH+jF/qStxw==
+
 hoist-non-react-statics@^3.1.0, hoist-non-react-statics@^3.3.0:
   version "3.3.0"
   resolved "https://registry.yarnpkg.com/hoist-non-react-statics/-/hoist-non-react-statics-3.3.0.tgz#b09178f0122184fb95acf525daaecb4d8f45958b"
@@ -8870,6 +8875,14 @@ react-test-renderer@^16.0.0-0, react-test-renderer@^16.8.6:
     prop-types "^15.6.2"
     react-is "^16.8.6"
     scheduler "^0.13.6"
+
+react-timeout@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/react-timeout/-/react-timeout-2.0.1.tgz#00430e955757949ba402a863090be8b3cefcb1d0"
+  integrity sha512-u/+cTXeYO+Jd8/E5UBhioxrumLf57vqH72V4R0d/vrb6Ej9FdmxoaPZMZ9A0NY5BCQAwuhM3BtiMU0edhr5NeQ==
+  dependencies:
+    hoist-non-react-statics "^2.3.1"
+    object-assign "^4.0.1"
 
 react-transition-group@^2.3.1:
   version "2.9.0"
