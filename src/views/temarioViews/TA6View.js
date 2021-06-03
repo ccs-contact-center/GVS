@@ -8,7 +8,7 @@ class TA6View extends Component {
   render() {
     return (
       <div className="animated fadeIn">
-         <CardHeader className="text-left bgH" style={{paddingBottom:"0px"}}>
+         <CardHeader className="text-left " style={{paddingBottom:"0px"}}>
           <h5> GESTION DE VANTAS, VENCIMIENTO DE OBJECIONES.</h5>
           <h5> &nbsp;&nbsp;-1.2  Habilidades para el vencimiento  de objeciones</h5>
         </CardHeader>
