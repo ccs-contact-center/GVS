@@ -24,7 +24,7 @@ class InstruccionView extends Component {
               />
             </Col>
             <Col xs="5" >
-              <h2 className="text-justify text-white">
+              <h2 className="text-justify ">
                 <p>
                   Cuando encuentres el icono de audio, púlsalo para poder escuchar los audios que preparamos para ti.
               </p>
