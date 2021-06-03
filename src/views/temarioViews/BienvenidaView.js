@@ -10,7 +10,7 @@ class BienvenidaView extends Component {
   render() {
     return (
       <div>
-        <CardHeader className="text-center bgH text-white" >
+        <CardHeader className="text-center" >
           <h1>¡Bienvenid@! </h1>
         </CardHeader>
         <CardBody className="text-center">
