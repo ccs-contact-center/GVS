@@ -15,7 +15,7 @@ class TA13View extends Component {
   render() {
     return (
       <div className="animated fadeIn">
-         <CardHeader className="text-left bgH" style={{paddingBottom:"0px"}}>
+         <CardHeader className="text-left " style={{paddingBottom:"0px"}}>
           <h5> Despedida</h5>
         </CardHeader>
         <CardBody >
