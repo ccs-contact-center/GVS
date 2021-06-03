@@ -19,8 +19,6 @@ const TA11View = React.lazy(() => import('./views/temarioViews/TA11View'));
 const TA12View = React.lazy(() => import('./views/temarioViews/TA12View'));
 const TA13View = React.lazy(() => import('./views/temarioViews/TA13View'));
 
-
-
 const routes = [
   { path: '/', exact: true, name: 'Home' },
   { path: '/Inicio', name: 'Inicio', component: Inicio },
