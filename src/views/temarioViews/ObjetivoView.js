@@ -9,13 +9,13 @@ class ObjetivoView extends Component {
   render() {
     return (
       <div className="animated fadeIn">
-        <CardHeader className="text-left bgH">
+        <CardHeader className="text-left">
           <h3>Objetivo</h3>
         </CardHeader>
         <CardBody className="">
-          <Row className="centrado-fila text-white">
+          <Row className="centrado-fila ">
             <Col xs="12" >
-              <div className="align-middle animated rubberBand delay-0s">
+              <div className="align-middle animated slideInLeft delay-0s">
                 <h4 className="text-justify">
                 <ul>
                   <li>
