@@ -10,7 +10,7 @@ class InstruccionView extends Component {
   render() {
     return (
       <div className="animated fadeIn">
-        <CardHeader className="text-left bgH text-white">
+        <CardHeader className="text-left">
           <h3>Instrucciones</h3>
         </CardHeader>
         <CardBody className="">
