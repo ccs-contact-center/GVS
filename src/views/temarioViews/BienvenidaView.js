@@ -21,10 +21,10 @@ class BienvenidaView extends Component {
                 src={bienvenida}
                 style={{ width: 500 }}
                 alt="bienvenida"
-                className="img-fluid bordeImagen animated  bounceInRight delay-2s"
+                className="img-fluid  animated  bounceInRight delay-2s"
               />
               <div className="animated  bounceInLeft delay-1s">
-             <h1 className="text-white">GESTION DE VENTAS,<br/> VENCIMIENTO DE OBJESIONES</h1>
+             <h1 className="">GESTION DE VENTAS,<br/> VENCIMIENTO DE OBJESIONES</h1>
              </div>
             </Col>
           </Row>
