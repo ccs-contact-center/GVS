@@ -25,7 +25,7 @@ class TA12View extends Component {
   render() {
     return (
       <div className="animated fadeIn">
-        <CardHeader className="text-left bgH" style={{paddingBottom:"0px"}}>
+        <CardHeader className="text-left " style={{paddingBottom:"0px"}}>
           <h5> Evaluación</h5>
         </CardHeader>
         <CardBody >
