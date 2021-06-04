@@ -17,20 +17,19 @@ class ObjetivoView extends Component {
             <Col xs="12" >
               <div className="align-middle animated slideInLeft delay-0s">
                 <h4 className="text-justify">
-                <ul>
-                  <li>
-                    Conocerás que es el vencimiento o manejo de objeciones como una transición de negocio que tiene 
-                    como finalidad concretar una venta.
+                  <ul>
+                    <li>
+                      Aplicarás <b>técnicas</b> de manejo de objeciones para concretar una venta en diferentes
+                    escenarios con clientes
                   </li>
-                  <li>
-                    Comprenderás  como podrás vencer o manejar objeciones en los diferentes escenarios  de llamada, 
-                    identificando las  necesidades del cliente.
+                    <li>
+                      Conocerás <b>estrategias</b> para concretar una venta a partir del manejo adecuado de <b>objeciones</b>
+                      del cliente.
                   </li>
-                  <li>
-                    Aplicaras los conocimientos y habilidades comprendidas correspondientes al correcto vencimiento 
-                    o manejo de objeciones con la finalidad de concretar una venta. 
+                    <li>
+                      Comprenderás como identificar las <b>necesidades</b> del cliente para manejar sus objeciones.
                   </li>
-                </ul>
+                  </ul>
                 </h4>
               </div>
             </Col>
