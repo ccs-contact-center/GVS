@@ -4,6 +4,7 @@ import React from 'react';
 const Inicio = React.lazy(() => import('./views/Inicio'));
 const BienvenidaView = React.lazy(() => import('./views/temarioViews/BienvenidaView'));
 const ObjetivoView = React.lazy(() => import('./views/temarioViews/ObjetivoView'));
+const IndiceView = React.lazy(() => import('./views/temarioViews/IndiceView'));
 const InstruccionView = React.lazy(() => import('./views/temarioViews/InstruccionView'));
 const TA1View = React.lazy(() => import('./views/temarioViews/TA1View'));
 const TA2View = React.lazy(() => import('./views/temarioViews/TA2View'));
@@ -24,6 +25,7 @@ const routes = [
   { path: '/Inicio', name: 'Inicio', component: Inicio },
   { path: '/temarioViews/BienvenidaView', name: 'Bienvenida', component: BienvenidaView },
   { path: '/temarioViews/ObjetivoView', name: 'Objetivo', component: ObjetivoView },
+  { path: '/temarioViews/IndiceView', name: 'Objetivo', component: IndiceView },
   { path: '/temarioViews/InstruccionView', name: 'Instrucción', component: InstruccionView },
   { path: '/temarioViews/TA1View', name: '1.1 Que es el vencimiento o  manejo de objeciones P > 1', component: TA1View },
   { path: '/temarioViews/TA2View', name: '1.1 Que es el vencimiento o  manejo de objeciones P > 2', component: TA2View },
