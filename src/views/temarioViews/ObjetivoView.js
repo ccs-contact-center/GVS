@@ -10,7 +10,7 @@ class ObjetivoView extends Component {
     return (
       <div className="animated fadeIn">
         <CardHeader className="text-left">
-          <h3>Objetivo</h3>
+          <h3>Objetivos</h3>
         </CardHeader>
         <CardBody className="">
           <Row className="centrado-fila ">
