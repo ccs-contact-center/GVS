@@ -11,9 +11,14 @@ export default {
       url: '/temarioViews/BienvenidaView',
     },
     {
-      name: 'Objetivo',
+      name: 'Objetivos',
       icon: 'icon-speech',
       url: '/temarioViews/ObjetivoView',
+    },
+    {
+      name: 'Indice',
+      icon: 'icon-speech',
+      url: '/temarioViews/IndiceView',
     },
     {
       name: 'Instrución',
