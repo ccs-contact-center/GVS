@@ -12,7 +12,7 @@ class TA6View extends Component {
           <h5> GESTION DE VANTAS, VENCIMIENTO DE OBJECIONES.</h5>
           <h5> &nbsp;&nbsp;-1.2  Habilidades para el vencimiento  de objeciones</h5>
         </CardHeader>
-        <CardBody >
+        <CardBody  className="bg-line2">
           <Row className="centrado-fila">
             <Col xs="2">
 
