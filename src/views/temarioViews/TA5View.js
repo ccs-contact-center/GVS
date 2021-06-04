@@ -29,8 +29,8 @@ class TA5View extends Component {
           <h5> &nbsp;&nbsp;-1.2  Habilidades para el vencimiento  de objeciones</h5>
         </CardHeader>
         
-        <CardBody >
-          <Row className="centrado-fila">
+        <CardBody className="bg-line">
+          <Row className="centrado-fila ">
             <Col xs="4" >
               <div className="cajaA1 text-center">
                 Sondeo
