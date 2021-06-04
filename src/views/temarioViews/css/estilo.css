@@ -31,6 +31,7 @@
 	border-right: solid 6px #c00327 !important;
 	border-radius: 10px 10px 10px 10px;
 	font-size: 16px;
+	background-color: #f3f4f5;
 	/* background-color: rgba(255,255,255, 0.4); */
 	font-family: Arial, Helvetica, sans-serif;
 	padding:15px 15px 15px 15px;
@@ -248,21 +249,21 @@ td,th{
 	border-top: solid 6px #c00327 !important;
 	border-left: solid 6px #c00327 !important;
 	border-right: solid 6px #c00327 !important;
-	border-radius: 10px 10px 10px 10px;
+	border-radius: 90px 70px 90px 70px;
 		
 	
 		padding: 20px 10px 10px 10px;
 		text-align: center;
-		width:100%;
-		-moz-border-radius: 10px;
-		-webkit-border-radius: 10px;
-		border-radius: 10px;
+		width:270px;
+		height: 150px;
+		-moz-border-radius:  70px 70px 70px 70px;
+		-webkit-border-radius:  70px 70px 70px 70px;
 	  }
 	  .globo:after {
 		border: solid 10px transparent;
 		border-top-color: #c00327;;  /* igual al color de fondo */
 		border-bottom: 0;
-		bottom: -20px;  /* igual al borde + el padding-bottom de la definición anterior */
+		bottom: -26px;  /* igual al borde + el padding-bottom de la definición anterior */
 		content: "";
 		display: block;
 		height: 0;
@@ -270,6 +271,23 @@ td,th{
 		overflow: hidden;
 		position: relative;
 		width: 0;
+	  }
+
+
+	  .bg-line{
+		background-image: url(../../../assets/img/safelite/bgLine.png);
+		width: 100%;
+		height: 700px;
+		background-repeat: no-repeat;
+		background-size: cover;
+	  }
+	  
+	  .bg-line2{
+		background-image: url(../../../assets/img/safelite/bgLine2.png);
+		width: 100%;
+		
+		background-repeat: no-repeat;
+		background-size: cover;
 	  }
 	  
 	
